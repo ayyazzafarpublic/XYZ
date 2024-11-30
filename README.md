@@ -1,1 +1,43 @@
-IyBYWVogUHJvamVjdAoKQSBjb21wcmVoZW5zaXZlIHByb2plY3QgdGVtcGxhdGUgZGVtb25zdHJhdGluZyBtb2Rlcm4gZGV2ZWxvcG1lbnQgcHJhY3RpY2VzIGFuZCB0b29scy4KCiMjIEZlYXR1cmVzCgotIPCfjpAgQmVzdCBwcmFjdGljZXMgaW1wbGVtZW50YXRpb24KLSDwn5GGIE1vZHVsYXIgYXJjaGl0ZWN0dXJlCi0g8J+UjCBTZWN1cml0eSBmaXJzdCBhcHByb2FjaAotIPCflJEgQ29tcHJlaGVuc2l2ZSBkb2N1bWVudGF0aW9uCgojIyBHZXR0aW5nIFN0YXJ0ZWQKCmBgYGJhc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9heXlhenphZmFycHVibGljL1hZWi5naXQKY2QgWFlaIgpgYGAKCiMjIENvbnRyaWJ1dGluZwoKMS4gRm9yayB0aGUgcmVwb3NpdG9yeQoyLiBDcmVhdGUgeW91ciBmZWF0dXJlIGJyYW5jaAozLiBTdWJtaXQgYSBwdWxsIHJlcXVlc3QKCiMjIExpY2Vuc2UKCk1JVAoKIyMgQ29udGFjdAoKRmVlbCBmcmVlIHRvIG9wZW4gYW4gaXNzdWUgZm9yIGFueSBxdWVzdGlvbnMgb3Igc3VnZ2VzdGlvbnMu
+## Project XYZ
+
+Modern web application template featuring React, Next.js, and TypeScript.
+
+### Key Features
+- TypeScript for type safety
+- Next.js 14 with App Router
+- Tailwind CSS for styling
+- Jest for testing
+- ESLint + Prettier for code quality
+
+### Setup
+```bash
+git clone https://github.com/ayyazzafarpublic/XYZ.git
+cd XYZ
+npm install
+npm run dev
+```
+
+### Project Structure
+```
+src/
+  ├── app/         # Next.js app directory
+  ├── components/  # Reusable React components
+  ├── lib/         # Utility functions
+  ├── styles/      # Global styles
+  └── types/       # TypeScript type definitions
+```
+
+### Available Scripts
+- `npm run dev`: Start development server
+- `npm run build`: Build production bundle
+- `npm run test`: Run test suite
+- `npm run lint`: Check code style
+
+### Contributing
+1. Fork repository
+2. Create feature branch
+3. Commit changes
+4. Open pull request
+
+### License
+MIT
